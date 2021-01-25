@@ -12,7 +12,7 @@ The importance of a good readme can't be overstated.
 
 ## Resources
 
-* [Layout reference]()
+* [Layout reference](https://elint-tech.github.io/front-challenge-2021-1/page/portfolio.html)
 * [Elint's discord](https://discord.com/invite/qKHFphzyjq)
 * [Elint's colour scheme](https://coolors.co/1a1c38-464866-dee0f2-2e9cca-29648a)
 * [Front end template examples](https://themehunt.com/items/html/landing-pages/latest) (a lot more on the web)

@@ -1,5 +1,5 @@
 # Elint Tech Front End Challenge 2021.1
-Repo for Elint Tech's front end challenge.
+Repo for Elint Tech's front end [challenge](https://github.com/elint-tech/front-challenge-2021-1/blob/master/challenge.pdf).
 
 ## How to apply
 

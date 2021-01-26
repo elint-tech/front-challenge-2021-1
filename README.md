@@ -24,6 +24,6 @@ The importance of a good readme can't be overstated.
 * [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 
-## Challenge
+## Delivery
 
 Section designed to have any information about your code, such as _how to run locally_, _how to deploy_, etc.
